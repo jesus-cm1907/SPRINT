@@ -1,6 +1,3 @@
- Sprint2
-
-=======
 Sprint2
 HERRAMIENTA USADA:STACKEDIT.
 
@@ -18,7 +15,7 @@ Nombre:
 	
 Herramienta:
 
-	- Balsamiq Wireframes
+	- Balsamiq WireframeS
 	
 Nombre del proyecto:
 
