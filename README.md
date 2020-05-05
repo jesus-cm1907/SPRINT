@@ -7,7 +7,7 @@ PERFIL:En esta clase pedimos un nombre,apellido,contraseña y corrreo electronic
 FORO:Con esta clase pediremos el mensaje que se escriba y el usuario,para que asi los usuarios puedan escribir cualquier mensaje en el foro.
 REDES SOCIALES:Aqui pediremos el array de redes sociales para que de esta forma el usuario pueda contactar desde cualquier red social(Instagram, Facebbok,Twiiter).
 BUSCADOR:En esta clase pediremos que nos devuelva el buscador en el cual el usuario podra buscar la informacion que quiera dentro de la página.
-=======
+
  Sprint1
 Nombre:
 
@@ -24,7 +24,5 @@ Nombre del proyecto:
 Proecedimiento realizado:
 
 	- Mediante este programa he podido realizar una idea de lo que seria  nuestra pagina web ya que nos da un amplio abanico de 		opciones para diseñarla como por ejemplo añadir google maps,un buscador, la barra de desplazamientos,barra de opciones que al unir 	   todo en conjunto podemos conseguir una pagina bastantee interesante.
-=======
-# SPRINT
- master
+
   
