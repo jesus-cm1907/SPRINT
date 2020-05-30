@@ -1,4 +1,4 @@
- Sprint2
+ 
 
 Sprint2
 HERRAMIENTA USADA:STACKEDIT.
@@ -10,7 +10,7 @@ FORO:Con esta clase pediremos el mensaje que se escriba y el usuario,para que as
 REDES SOCIALES:Aqui pediremos el array de redes sociales para que de esta forma el usuario pueda contactar desde cualquier red social(Instagram, Facebbok,Twiiter).
 BUSCADOR:En esta clase pediremos que nos devuelva el buscador en el cual el usuario podra buscar la informacion que quiera dentro de la página.
 
- Sprint1
+ 
 Nombre:
 
 	- Jesus Cansino Molina 
